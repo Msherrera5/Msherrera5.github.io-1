@@ -1,0 +1,47 @@
+
+
+                    .navtext {
+                        text-color:#273A27;
+                    }
+                    
+                    li, .bruh, .rtext,  {
+                        font-family: 'Noto Sans', sans-serif;font-style:bold;
+                    }
+                    img.size {
+                        width:300px;height:300px;
+                    }
+                    
+                    img.size:hover {
+                        filter: invert(100%);
+                    }
+                    
+                    #bruh {
+                        color:DarkOrange;
+                    }
+                   
+                    .picture {
+                       display:block;
+                       width:300px;
+                       border: 5px dotted red;
+                   }
+                   
+                    .picture:hover {
+                        color:red;   
+                        display:block;
+                   }
+                   
+                    .review {
+                        font-family: 'Noto Sans', sans-serif;font-size:36px;font-style:bold;
+                    }
+                  
+                    .twitter {
+                        color:#00acee;
+                    }    
+                    
+                    .disc {
+                        color:#7289da;
+                    }
+                    
+                    .insta {
+                        color:#DD2A7B;
+                    }
